@@ -1,2 +1,2 @@
 # dropitandroid
-A drop and pick up detector for Android.
+A drop and pick up detector for Android. Just for kicks.
